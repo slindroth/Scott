@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>HTML: Lists</title>
+    </head>
+    <body>
+
+    <h1>Nicole Leone, Soprano</h1>
+    
+    <h2>Basic info</h2>
+    
+    <p>Nicole is a great singer.  She is the best in the <em>world</em>, and <strong>can do anything <em>ever</em></strong>.</p>
+    
+    <h2>Songs</h2>
+    
+    <p>Little Bunny Foo Foo, <br>
+I don't want to see you <br>
+scooping up the field mice <br>
+and bopping them on the head!</p>
+
+    </body>
+</html>
